@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/memb3r/RaiGPT/#about">About</a>  ·  <a href="https://github.com/memb3r/RaiGPT/#requirements">Requirements</a>  ·  <a href="https://github.com/memb3r/RaiGPT/#installation">Installation</a>  ·  <a href="https://github.com/memb3r/RaiGPT/#usage">Usage</a>  ·  <a href="https://github.com/memb3r/RaiGPT/#license">License</a>
+  <a href="https://github.com/memb3r/RaiGPT/#about">About</a>  ·  <a href="https://github.com/memb3r/RaiGPT/#requirements">Requirements</a>  ·  <a href="https://github.com/memb3r/RaiGPT/#installation">Installation</a>  ·  <a href="https://github.com/memb3r/RaiGPT/#license">License</a>
 </p>
 
 ## About
@@ -64,3 +64,36 @@ python3 raigpt.py
 ```
 
 The project will automaticly install needed libraries, like <code>g4f</code> and <code>rich</code>
+
+### Linux:
+
+Install <code>python3</code>, <code>python3-pip</code> and <code>git</code> using <code>apt</code> or other packaging tools.
+
+```bash
+sudo apt install python3 python3-pip git
+```
+
+Now, clone the repository:
+
+```bash
+git clone https://github.com/memb3r/RaiGPT
+```
+
+Move to <code>RaiGPT</code> folder
+
+```bash
+cd RaiGPT
+# Example
+```
+
+Open .py file using <code>python3</code> command
+
+```bash
+python3 raigpt.py
+```
+
+The project will automaticly install needed libraries, like <code>g4f</code> and <code>rich</code>
+
+## License
+
+This project is licensed under the <code>MIT License</code> - see file [LICENSE](LICENSE) for details.
