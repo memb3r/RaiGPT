@@ -3,5 +3,5 @@
 </h1>
 
 <p align="center">
-  <img src="raigptlogo.png">
+  <img src="raigptlogotype.png">
 </p>
