@@ -18,7 +18,7 @@
 
 RaiGPT is an AI based on GPT 3.5 by OpenAI and  [gpt3free](https://github.com/xtekky/gpt4free) library by xtekky.
 
-RaiGPT is maded by me, memb3r, for people from chat named ["РАЙ")](https://t.me/raichatmishshish) ("RAI").
+RaiGPT is maded by me, memb3r, for people from chat named ["РАЙ"](https://t.me/raichatmishshish) ("RAI").
 
 ## Requirements
 
